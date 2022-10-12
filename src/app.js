@@ -1,0 +1,1 @@
+document.write('<h1>I am proxy app</h1>');
